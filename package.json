@@ -1,4 +1,10 @@
 {
+  "name": "sylphacard-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && node index.js"
+  },
   "files": [
     "node_modules/sylphacard/fonts/**/*.ttf"
   ],
